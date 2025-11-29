@@ -1,0 +1,24 @@
+D:\Sources\Email Searcher\tryserch\obj\Release\Fullsearcher.vbproj.AssemblyReference.cache
+D:\Sources\Email Searcher\tryserch\obj\Release\EmailSearcher.Form1.resources
+D:\Sources\Email Searcher\tryserch\obj\Release\EmailSearcher.Resources.resources
+D:\Sources\Email Searcher\tryserch\obj\Release\Fullsearcher.vbproj.GenerateResource.cache
+D:\Sources\Email Searcher\tryserch\obj\Release\Fullsearcher.vbproj.CoreCompileInputs.cache
+D:\Sources\Email Searcher\tryserch\bin\Release\Email Searcher.exe.config
+D:\Sources\Email Searcher\tryserch\bin\Release\Email Searcher.exe
+D:\Sources\Email Searcher\tryserch\bin\Release\Email Searcher.pdb
+D:\Sources\Email Searcher\tryserch\bin\Release\Email Searcher.xml
+D:\Sources\Email Searcher\tryserch\obj\Release\Email Searcher.exe
+D:\Sources\Email Searcher\tryserch\obj\Release\Email Searcher.xml
+D:\Sources\Email Searcher\tryserch\obj\Release\Email Searcher.pdb
+C:\Users\Cosmos89\Desktop\Email-Searcher\Email Searcher\tryserch\bin\Release\Email Searcher.exe.config
+C:\Users\Cosmos89\Desktop\Email-Searcher\Email Searcher\tryserch\bin\Release\Email Searcher.exe
+C:\Users\Cosmos89\Desktop\Email-Searcher\Email Searcher\tryserch\bin\Release\Email Searcher.pdb
+C:\Users\Cosmos89\Desktop\Email-Searcher\Email Searcher\tryserch\bin\Release\Email Searcher.xml
+C:\Users\Cosmos89\Desktop\Email-Searcher\Email Searcher\tryserch\obj\Release\Fullsearcher.vbproj.AssemblyReference.cache
+C:\Users\Cosmos89\Desktop\Email-Searcher\Email Searcher\tryserch\obj\Release\EmailSearcher.Form1.resources
+C:\Users\Cosmos89\Desktop\Email-Searcher\Email Searcher\tryserch\obj\Release\EmailSearcher.Resources.resources
+C:\Users\Cosmos89\Desktop\Email-Searcher\Email Searcher\tryserch\obj\Release\Fullsearcher.vbproj.GenerateResource.cache
+C:\Users\Cosmos89\Desktop\Email-Searcher\Email Searcher\tryserch\obj\Release\Fullsearcher.vbproj.CoreCompileInputs.cache
+C:\Users\Cosmos89\Desktop\Email-Searcher\Email Searcher\tryserch\obj\Release\Email Searcher.exe
+C:\Users\Cosmos89\Desktop\Email-Searcher\Email Searcher\tryserch\obj\Release\Email Searcher.xml
+C:\Users\Cosmos89\Desktop\Email-Searcher\Email Searcher\tryserch\obj\Release\Email Searcher.pdb
